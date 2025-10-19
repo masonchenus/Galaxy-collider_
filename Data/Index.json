@@ -1,0 +1,8 @@
+{
+  // ... other settings ...
+  "time_controls": {
+    "pause_enabled": true,
+    "skip_forward_amount_years": 1000000000, // 1 Billion years
+    "skip_backward_amount_years": 1000000000
+  }
+}
